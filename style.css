@@ -1,0 +1,197 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+.bgcolor {
+	background-color: gray;
+}
+
+.navbar {
+	background-color: #D7DBDD;
+}
+
+.logo {
+	width: 50px;
+}
+
+.imgss {
+	height: 100vh;
+	width: 100%;
+}
+
+.Website {
+	margin-top: -300px;
+	color: #DA00B5 ;
+	font-size: 55px;
+	font-weight: bold;
+	text-shadow: 5px 5px 5px aqua;
+}
+
+.Website:hover {
+	color: white;
+	text-shadow: 5px 5px 5px crimson;
+}
+
+#map {
+	height: 400px;
+  width: 100%;
+}
+
+.about {
+	background-color: #808B96;
+	height: 100%;
+}
+
+
+.textTitle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 600px;
+}
+
+.by {
+	font-size: 25px;
+}
+
+.about-wrap > .about {
+	font-size: 38px;
+}
+
+.text1 > p {
+	font-size: 18px;
+	font-style: justify;
+}
+
+.nav-item > .nav-link {
+	color: black;
+}
+
+.nav-item > .nav-link:hover {
+	color: white;
+	background-color: crimson;
+}
+
+.products-wrap > .product {
+	font-size: 38px;
+}
+
+.products {
+	background-color: #EAEDED;
+	height: 100%;
+}
+
+.text > p {
+	font-size: 14px;
+}
+
+.btn {
+	display: flex;
+	margin: auto;
+}
+
+.contact-wrap > .contact {
+	font-size: 38px;
+}
+
+
+.faq-wrap > .fq {
+	font-size: 38px;
+}
+
+.imgs {
+	width: 500px;
+}
+
+.backg {
+	background-color: #EAEDED ;
+}
+
+.footer {
+	background-color: #566573;
+	height: 100%;
+}
+
+.footerlogo {
+	width: 280px;
+}
+
+
+.last {
+	background-color: #273746;
+}
+
+
+
+.bi-person-circle {
+	font-size: 70px;
+
+}
+
+.centerIcon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bi-star-fill, .bi-star-half {
+	color: crimson;
+}
+
+.faq {
+	background-color: #EAEDED;
+	height: 100%;
+}
+
+.review {
+	font-size: 38px;
+}
+
+.inner-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 650px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+	background-color: black;
+}
+
+.reviewsss-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.video-player {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+#play-pause-btn {
+  background-color: #3498db;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#play-pause-btn:hover {
+  background-color: #2980b9;
+}
+
